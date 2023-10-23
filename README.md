@@ -1,0 +1,1 @@
+# Qadimgi_dunyoning_yetti_mujizasi
