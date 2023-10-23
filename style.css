@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.about{
+    text-align: center;
+    margin: 5% 15% 5% 15%;
+    border: ridge 5px red;
+}
+.rasmlar:hover{
+    border: ridge 10px red;
+    cursor: auto;
+}
